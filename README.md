@@ -30,14 +30,11 @@
   <img align="center" alt="artur-ethereum" height="40" width="30" src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/cdbe4/eth-diamond-purple.webp">
   <img align="center" alt="artur-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="artur-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> </p> 
+
 <br><br>
 
-
-
-
-
-
 <div align="center">
+
   <a href="https://github.com/arturantonionunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturantonionunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturantonionunes&layout=compact&langs_count=7&theme=tokyonight"/>
