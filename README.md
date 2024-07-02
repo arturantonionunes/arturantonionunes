@@ -18,17 +18,13 @@
 <br><br>
 <h3 align="center">🛠️ Tecnologias que trabalho:</h3>
 <p align="center">
-  <img align="center" alt="artur-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="artur-CSS" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="artur-SCSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="artur-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="artur-solidity" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg">
+  <img align="center" alt="artur-foundry" height="40" width="30" src="https://getfoundry.sh/logo.png">
+  <img align="center" alt="artur-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="artur-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="artur-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="artur-mongodb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="artur-postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
-  <img align="center" alt="artur-solidity" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg">
-  <img align="center" alt="artur-foundry" height="40" width="30" src="https://getfoundry.sh/logo.png">
-  <img align="center" alt="artur-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="artur-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> </p> 
 
 <br><br>
